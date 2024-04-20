@@ -12,4 +12,4 @@ In the future, I would like to learn C and C#, along with Swift for developing i
 ![](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fmaybeizen) ![](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&link=https%3A%2F%2Finstagram.com%2Fmaybeizen) ![](https://img.shields.io/badge/Echo%20Enterprises-black?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FSyeDGjACU8)
 
 # Partners:
-![](https://img.shields.io/badge/Nether%20Host-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%239d0e0e&color=%239d0e0e&link=https%3A%2F%2Fnether.host)[https://nether.host]
+[![](https://img.shields.io/badge/Nether%20Host-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%239d0e0e&color=%239d0e0e&link=https%3A%2F%2Fnether.host)(https://nether.host)]
