@@ -28,7 +28,7 @@ Coding is my way of turning ideas into reality. Whether it’s creating a cool a
 Feel free to reach out if you want to talk about code, projects, or anything tech-related!  
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/maybeizen)  
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
-[![Discord]([https://img.shields.io/badge/maybeizen-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%239d0e0e&color=%239d0e0e](https://img.shields.io/badge/maybeizen-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2))](https://discord.com/users/924513291806580736)
+[![Discord](https://img.shields.io/badge/maybeizen-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.com/users/924513291806580736)
 
 ---
 
