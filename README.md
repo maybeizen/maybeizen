@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 ## A little about me:
 I’m passionate about building solutions that make life easier, whether it's through web development, automating workflows, or learning new programming languages. I focus on creating intuitive, seamless user experiences in both front-end and back-end systems.  
 
-Outside of coding, I'm an anime fan—*Darling in the Franxx* and *Your Lie in April* are some of my favorites for their emotional depth. I also dream of owning my own software development business, creating tech solutions that help others. I’m always learning, growing, and chasing my goals.
+Outside of coding, I'm an anime fan—*Darling in the Franxx* and *Blue Box* are some of my favorites for their emotional depth. I also dream of owning my own software development business, creating tech solutions that help others. I’m always learning, growing, and chasing my goals.
 
 ## My tech stack:  
 [![](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react)](https://reactjs.org) [![](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org) [![](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -26,7 +26,7 @@ Coding is my way of turning ideas into reality. Whether it’s creating a cool a
 
 ## Let’s Connect:
 Feel free to reach out if you want to talk about code, projects, or anything tech-related!  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/maybeizen)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/maybeizen)  
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
 [![Discord](https://img.shields.io/badge/maybeizen-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.com/users/924513291806580736)
 
