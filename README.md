@@ -22,6 +22,8 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 ![Tailwind](https://img.shields.io/badge/Tailwind-%23111111?style=for-the-badge&logo=tailwindcss&logoSize=auto&color=%23111111)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23111111?style=for-the-badge&logo=bootstrap&logoSize=auto&color=%23111111)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23111111?style=for-the-badge&logo=JavaScript&logoSize=auto&color=%23111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23111111?style=for-the-badge&logo=TypeScript&logoSize=auto&color=%23111111)
+![Java](https://img.shields.io/badge/Java-%23111111?style=for-the-badge&logo=gradle&logoSize=auto&color=%23111111)
 ![Python](https://img.shields.io/badge/Python-%23111111?style=for-the-badge&logo=python&logoSize=auto&color=%23111111)
 ![GoLang](https://img.shields.io/badge/GoLang-%23111111?style=for-the-badge&logo=go&logoSize=auto&color=%23111111)
 ![HTML](https://img.shields.io/badge/HTML-%23111111?style=for-the-badge&logo=html5&logoSize=auto&color=%23111111)
