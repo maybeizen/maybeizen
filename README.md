@@ -36,7 +36,7 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 
 ## 📊 Github Stats
 <p align="center">
-    <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="maybeizen's stats">
+    <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="maybeizen's stats">
     <img src="https://github-stats-ochre-mu.vercel.app/api/top-langs/?username=maybeizen&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="maybeizen's Top Languages">
 </p>
 
