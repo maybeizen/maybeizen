@@ -7,7 +7,7 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 ## 🌟 About Me
 - 💻 I love building solutions that make life easier — from full-stack web apps to automation tools and beyond.
 - 🎨 My focus is on intuitive, seamless user experiences — blending front-end creativity with back-end logic.
-- 🌌 Anime enthusiast at heart — *Darling in the Franxx* and *Horimiya* are just a couple of my favorites for their emotional depth and storytelling.
+- 💖 Romance anime enthusiast at heart — *Darling in the Franxx* and *Horimiya* are just a couple of my favorites.
 - 🚀 One day, I’ll own my own software business, creating tech that helps people and makes a difference.
 - 🌱 Always learning, always growing — that’s the path I’m walking.
 
