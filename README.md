@@ -5,11 +5,12 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 ---
 
 ## 🌟 About Me
-- 💻 I love building solutions that make life easier — from full-stack web apps to automation tools and beyond.
-- 🎨 My focus is on intuitive, seamless user experiences — blending front-end creativity with back-end logic.
-- 💖 Romance anime enthusiast at heart — *Darling in the Franxx* and *Horimiya* are just a couple of my favorites.
-- 🚀 One day, I’ll own my own software business, creating tech that helps people and makes a difference.
-- 🌱 Always learning, always growing — that’s the path I’m walking.
+- 💻 I thrive on building solutions that simplify life — from full-stack web apps to automation tools and beyond.
+- 🎨 Crafting seamless, intuitive user experiences is my thing — blending front-end creativity with back-end efficiency.
+- 💖 A romance anime enthusiast — Darling in the Franxx and Horimiya have my heart (well, along with someone else 👀💕).
+- 🚀 My dream? To run my own software business, creating tech that truly makes a difference.
+- 🌱 Always learning, always evolving — the journey never stops.
+- ❤️ And yes, there may or may not be a certain someone who makes my heart race faster than VS Code on auto-save.
 
 ---
 
@@ -34,7 +35,7 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 
 ---
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 <p align="center">
     <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="maybeizen's stats">
     <img src="https://github-stats-ochre-mu.vercel.app/api/top-langs/?username=maybeizen&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="maybeizen's Top Languages">
@@ -43,19 +44,19 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 ---
 
 ## 📚 What I'm Currently Learning & Exploring
-- ⚙️ **C & C++** — Diving into low-level programming to understand hardware better and write more efficient code.
-- 🌐 **GoLang** — Building high-performance APIs and exploring concurrency for scalable, robust applications.
-- 🖥️ **ReactJS & Node.js** — Pushing my full-stack skills further with dynamic interfaces and powerful back-ends.
+- ⚙️ **C & C++** — Delving into low-level programming for optimized performance and deeper hardware understanding.
+- 🌐 **GoLang** — Exploring concurrency and high-performance APIs for scalable applications.
+- 🖥️ **ReactJS & Node.js** — Refining my full-stack expertise with dynamic UIs and powerful back-ends.
 
 ---
 
 ## 💡 Why I Code
-For me, coding is about turning ideas into reality — solving problems, building cool tools, and constantly challenging myself. Every new project is a chance to learn, grow, and take one step closer to mastering my craft. Whether it's building for fun or working towards my future business, code is my creative outlet and my passion.
+Coding is more than just a skill — it's how I bring ideas to life. Whether it’s solving real-world problems, crafting innovative tools, or building toward my future business, every project fuels my passion. For me, code is both a challenge and an art form, and I’m always eager to push my limits.
 
 ---
 
 ## 📬 Let’s Connect!
-Want to talk code, projects, or just geek out over anime? Hit me up anytime — I'm always down to chat!
+Love coding, anime, or just want to chat? Feel free to reach out — I’m always open to connecting!
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/maybeizen)  
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
@@ -65,3 +66,4 @@ Want to talk code, projects, or just geek out over anime? Hit me up anytime — 
 
 ## 🤝 Partners
 [![Nether Host](https://img.shields.io/badge/Nether%20Host-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%239d0e0e&color=%239d0e0e)](https://nether.host)
+
