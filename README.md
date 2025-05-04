@@ -60,8 +60,3 @@ Love coding, anime, or just want to chat? Feel free to reach out — I’m alway
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/maybeizen)  
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
 [![Discord](https://img.shields.io/badge/maybeizen-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.com/users/924513291806580736)
-
----
-
-## 🤝 Partners
-[![Nether Host](https://img.shields.io/badge/Nether%20Host-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%239d0e0e&color=%239d0e0e)](https://nether.host)
