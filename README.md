@@ -1,38 +1,51 @@
 # Hey there, I'm maybeizen! 👋
 
-Welcome to my corner of GitHub! I’m a passionate software developer and aspiring full-stack engineer, always exploring new technologies, pushing the limits of what I can build, and sharing my journey with the world.
+Welcome to my corner of GitHub! I’m a backend-focused software developer and future cybersecurity warrior, passionate about building powerful systems, APIs, and tools that do more than just look good — they *work* like a dream.
 
 ---
 
 ## 🌟 About Me
-- 💻 I thrive on building solutions that simplify life — from full-stack web apps to automation tools and beyond.
-- 🎨 Crafting seamless, intuitive user experiences is my thing — blending front-end creativity with back-end efficiency.
-- 💖 A romance anime enthusiast — Darling in the Franxx and Horimiya have my heart.
-- 🚀 My dream? To run my own software business, creating tech that truly makes a difference.
-- 🌱 Always learning, always evolving — the journey never stops.
+- 🧠 Backend enthusiast with a love for systems that run deep — APIs, databases, performance, and logic are my zone.
+- 💻 From full-stack beginnings to a backend future — I'm leaning into what I love most.
+- 🔐 Aspiring cybersecurity pro with an eye toward military and system-level programming.
+- 💖 Romance anime fuels my soul — *Darling in the Franxx* and *Horimiya* hit especially deep.
+- 🚀 My dream? To run a software business that builds tools people rely on — real impact, real code.
+- 🌱 Always learning, always evolving — whether it's Rust, C, or Go, the journey’s just heating up.
 
 ---
 
-## ⚡ My Tech Stack
+## 🛠️ Current Tech Stack (Backend-Oriented)
 <div align="center">
-  
-![React](https://img.shields.io/badge/React-%23111111?style=for-the-badge&logo=React&logoSize=auto&color=%23111111)
-![Node.js](https://img.shields.io/badge/Node.js-%23111111?style=for-the-badge&logo=node.js&logoSize=auto&color=%23111111)
-![Next.js](https://img.shields.io/badge/Next.js-%23111111?style=for-the-badge&logo=next.js&logoSize=auto&color=%23111111)
-![Tailwind](https://img.shields.io/badge/Tailwind-%23111111?style=for-the-badge&logo=tailwindcss&logoSize=auto&color=%23111111)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23111111?style=for-the-badge&logo=bootstrap&logoSize=auto&color=%23111111)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23111111?style=for-the-badge&logo=JavaScript&logoSize=auto&color=%23111111)
-![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=%23FF3E00&logoSize=auto&color=%23111111)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23FF3E00&logoSize=auto&color=%23111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23111111?style=for-the-badge&logo=TypeScript&logoSize=auto&color=%23111111)
-![Java](https://img.shields.io/badge/Java-%23111111?style=for-the-badge&logo=gradle&logoSize=auto&color=%23111111)
-![Python](https://img.shields.io/badge/Python-%23111111?style=for-the-badge&logo=python&logoSize=auto&color=%23111111)
-![GoLang](https://img.shields.io/badge/GoLang-%23111111?style=for-the-badge&logo=go&logoSize=auto&color=%23111111)
-![HTML](https://img.shields.io/badge/HTML-%23111111?style=for-the-badge&logo=html5&logoSize=auto&color=%23111111)
-![Lua](https://img.shields.io/badge/Lua-%23111111?style=for-the-badge&logo=lua&logoSize=auto&color=%23111111)
-![MySQL](https://img.shields.io/badge/MySQL-%23111111?style=for-the-badge&logo=mysql&logoSize=auto&color=%23111111)
+
+![GoLang](https://img.shields.io/badge/GoLang-%23111111?style=for-the-badge&logo=go&color=%23111111)
+![Node.js](https://img.shields.io/badge/Node.js-%23111111?style=for-the-badge&logo=node.js&color=%23111111)
+![Python](https://img.shields.io/badge/Python-%23111111?style=for-the-badge&logo=python&color=%23111111)
+![Java](https://img.shields.io/badge/Java-%23111111?style=for-the-badge&logo=openjdk&color=%23111111)
+![MySQL](https://img.shields.io/badge/MySQL-%23111111?style=for-the-badge&logo=mysql&color=%23111111)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23111111?style=for-the-badge&logo=postgresql&color=%23111111)
+![Lua](https://img.shields.io/badge/Lua-%23111111?style=for-the-badge&logo=lua&color=%23111111)
 
 </div>
+
+---
+
+## 📦 Frontend Tech I Know (But No Longer Use)
+I've worked with these tools before, and they taught me a lot — but I’ve decided to part ways with frontend development. It simply wasn’t where my passion lived.
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-%23111111?style=for-the-badge&logo=React&color=%23111111)
+![Next.js](https://img.shields.io/badge/Next.js-%23111111?style=for-the-badge&logo=next.js&color=%23111111)
+![Svelte](https://img.shields.io/badge/Svelte-%23111111?style=for-the-badge&logo=svelte&color=%23111111)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23111111?style=for-the-badge&logo=tailwindcss&color=%23111111)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23111111?style=for-the-badge&logo=bootstrap&color=%23111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23111111?style=for-the-badge&logo=typescript&color=%23111111)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23111111?style=for-the-badge&logo=javascript&color=%23111111)
+![HTML](https://img.shields.io/badge/HTML-%23111111?style=for-the-badge&logo=html5&color=%23111111)
+
+</div>
+
+> **Why I quit frontend:** I value logic over layout, systems over stylesheets. My heart just wasn’t in UI design.
 
 ---
 
@@ -44,20 +57,20 @@ Welcome to my corner of GitHub! I’m a passionate software developer and aspiri
 
 ---
 
-## 📚 What I'm Currently Learning & Exploring
-- ⚙️ **C & C++** — Delving into low-level programming for optimized performance and deeper hardware understanding.
-- 🌐 **GoLang** — Exploring concurrency and high-performance APIs for scalable applications.
-- 🖥️ **ReactJS & Node.js** — Refining my full-stack expertise with dynamic UIs and powerful back-ends.
+## 📚 What I'm Currently Learning
+- 🌐 **Go & Rust** — Scalable performance, concurrent systems, and powerful backends.
+- 🔐 **Cybersecurity** — Prepping for a future in defense, security, and critical systems.
+- 🧠 **Low-Level Concepts** — Compilers, memory, and operating system fundamentals.
 
 ---
 
 ## 💡 Why I Code
-Coding is more than just a skill — it's how I bring ideas to life. Whether it’s solving real-world problems, crafting innovative tools, or building toward my future business, every project fuels my passion. For me, code is both a challenge and an art form, and I’m always eager to push my limits.
+Code is how I turn abstract ideas into something *real*. Whether I’m building APIs, designing backend systems, or writing low-level tools, it’s about doing something that matters — not just for others, but for *me*. I code to create, to learn, and to keep moving forward.
 
 ---
 
 ## 📬 Let’s Connect!
-Love coding, anime, or just want to chat? Feel free to reach out — I’m always open to connecting!
+Love backend stuff, anime, or just vibing with tech? Let’s talk!
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/maybeizen)  
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
