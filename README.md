@@ -1,20 +1,20 @@
 # Hey there, I'm maybeizen! 👋
 
-Welcome to my corner of GitHub! I’m a backend-focused software developer and future cybersecurity warrior, passionate about building powerful systems, APIs, and tools that do more than just look good — they *work* like a dream.
+Welcome to my little byte of the internet. I’m a backend-focused developer, future cybersecurity badass, and a guy who believes in building tech that *just works* — no fluff, no fuss, just pure functionality.
 
 ---
 
-## 🌟 About Me
-- 🧠 Backend enthusiast with a love for systems that run deep — APIs, databases, performance, and logic are my zone.
-- 💻 From full-stack beginnings to a backend future — I'm leaning into what I love most.
-- 🔐 Aspiring cybersecurity pro with an eye toward military and system-level programming.
-- 💖 Romance anime fuels my soul — *Darling in the Franxx* and *Horimiya* hit especially deep.
-- 🚀 My dream? To run a software business that builds tools people rely on — real impact, real code.
-- 🌱 Always learning, always evolving — whether it's Rust, C, or Go, the journey’s just heating up.
+## 🌟 Who I Am
+- 🧩 Backend lover through and through — give me APIs, databases, and system-level logic any day.
+- 💡 Started full-stack, but backend stole my heart (and never gave it back).
+- 🔐 On a mission to become a cybersecurity wizard — military-grade systems? That’s the dream.
+- 💖 Romance anime addict — *Tsuki ga Kirei* and *Darling in the Franxx* wrecked me in the best way.
+- 🚀 My goal? Build tools people *actually* use. Make an impact. Leave a legacy of clean code.
+- 🌱 Currently exploring Rust, C, and deeper system knowledge — I’m just getting started.
 
 ---
 
-## 🛠️ Current Tech Stack (Backend-Oriented)
+## 🛠️ Tech Stack (Backend is Home)
 <div align="center">
 
 ![GoLang](https://img.shields.io/badge/GoLang-%23111111?style=for-the-badge&logo=go&color=%23111111)
@@ -29,8 +29,8 @@ Welcome to my corner of GitHub! I’m a backend-focused software developer and f
 
 ---
 
-## 📦 Frontend Tech I Know (But No Longer Use)
-I've worked with these tools before, and they taught me a lot — but I’ve decided to part ways with frontend development. It simply wasn’t where my passion lived.
+## 🧼 Frontend? Been There, Done That.
+These tools taught me a lot — but in the end, I chose logic over layout, and system design over screen design.
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I've worked with these tools before, and they taught me a lot — but I’ve dec
 
 </div>
 
-> **Why I quit frontend:** I value logic over layout, systems over stylesheets. My heart just wasn’t in UI design.
+> **Why I left frontend behind:** Because `div` hell and CSS black magic just aren’t my vibe. I’d rather wrangle servers than stylesheets.
 
 ---
 
@@ -57,20 +57,24 @@ I've worked with these tools before, and they taught me a lot — but I’ve dec
 
 ---
 
-## 📚 What I'm Currently Learning
-- 🌐 **Go & Rust** — Scalable performance, concurrent systems, and powerful backends.
-- 🔐 **Cybersecurity** — Prepping for a future in defense, security, and critical systems.
-- 🧠 **Low-Level Concepts** — Compilers, memory, and operating system fundamentals.
+## 🧠 What I’m Learning Right Now
+- ⚙️ **Go & Rust** — For fast, reliable, and beautiful backend systems.
+- 🕵️‍♂️ **Cybersecurity** — Digging into defense, pen-testing, and all things secure.
+- 💾 **Systems Thinking** — Learning the guts: memory management, compilers, and OS internals.
 
 ---
 
 ## 💡 Why I Code
-Code is how I turn abstract ideas into something *real*. Whether I’m building APIs, designing backend systems, or writing low-level tools, it’s about doing something that matters — not just for others, but for *me*. I code to create, to learn, and to keep moving forward.
+Because ideas deserve to exist — and I’ve got plenty.  
+I build because I *love* the process. Because nothing beats turning a blank file into something powerful, useful, or just plain cool.  
+
+And honestly?  
+I code to *create* — to build a future I believe in.
 
 ---
 
-## 📬 Let’s Connect!
-Love backend stuff, anime, or just vibing with tech? Let’s talk!
+## 📬 Let's Connect!
+Got backend dreams, anime thoughts, or just want to vibe with tech talk? Hit me up — I’m always down to chat.
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/maybeizen)  
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
