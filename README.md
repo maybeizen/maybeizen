@@ -2,6 +2,8 @@
 
 Welcome to my little byte of the internet. I’m a backend-focused developer, future cybersecurity badass, and a guy who believes in building tech that *just works* — no fluff, no fuss, just pure functionality.
 
+Pull up a chair, let's get nerdy. 🧠💻
+
 ---
 
 ## 🌟 Who I Am
@@ -24,6 +26,7 @@ Welcome to my little byte of the internet. I’m a backend-focused developer, fu
 ![MySQL](https://img.shields.io/badge/MySQL-%23111111?style=for-the-badge&logo=mysql&color=%23111111)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23111111?style=for-the-badge&logo=postgresql&color=%23111111)
 ![Lua](https://img.shields.io/badge/Lua-%23111111?style=for-the-badge&logo=lua&color=%23111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23111111?style=for-the-badge&logo=typescript&color=%23111111)
 
 </div>
 
@@ -39,7 +42,6 @@ These tools taught me a lot — but in the end, I chose logic over layout, and s
 ![Svelte](https://img.shields.io/badge/Svelte-%23111111?style=for-the-badge&logo=svelte&color=%23111111)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%23111111?style=for-the-badge&logo=tailwindcss&color=%23111111)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23111111?style=for-the-badge&logo=bootstrap&color=%23111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23111111?style=for-the-badge&logo=typescript&color=%23111111)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23111111?style=for-the-badge&logo=javascript&color=%23111111)
 ![HTML](https://img.shields.io/badge/HTML-%23111111?style=for-the-badge&logo=html5&color=%23111111)
 
