@@ -47,7 +47,7 @@ These tools taught me a lot — but in the end, I chose logic over layout, and s
 
 </div>
 
-> **Why I left frontend behind:** Because `div` hell and CSS black magic just aren’t my vibe. I’d rather wrangle servers than stylesheets.
+> **Why I left frontend behind:** Because `div` hell and CSS black magic just aren’t my vibe.
 
 ---
 
