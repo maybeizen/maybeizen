@@ -1,22 +1,22 @@
 # Hey there, I'm maybeizen! 👋
 
-Welcome to my little byte of the internet. I’m a backend-focused developer, future cybersecurity badass, and a guy who believes in building tech that *just works* — no fluff, no fuss, just pure functionality.
+Welcome to my GitHub! I’m a backend-focused developer, a future cybersecurity badass, and a guy who believes in building stuff that just *works*.
 
-Pull up a chair, let's get nerdy. 🧠💻
+Pull up a chair, let's get nerdy.
 
 ---
 
-## 🌟 Who I Am
-- 🧩 Backend lover through and through — give me APIs, databases, and system-level logic any day.
+## 🌟 Who is this guy?
+- 🧩 Backend lover through and through. Frontend? Miss me with that.
 - 💡 Started full-stack, but backend stole my heart (and never gave it back).
-- 🔐 On a mission to become a cybersecurity wizard — military-grade systems? That’s the dream.
+- 🔐 On a mission to become a cybersecurity wizard — military? That’s the dream.
 - 💖 Romance anime addict — *Tsuki ga Kirei* and *Darling in the Franxx* wrecked me in the best way.
-- 🚀 My goal? Build tools people *actually* use. Make an impact. Leave a legacy of clean code.
-- 🌱 Currently exploring Rust, C, and deeper system knowledge — I’m just getting started.
+- 🚀 My goal? Build tools people *actually* use. Make an impact. Leave a reason to be missed.
+- 🌱 Currently exploring Go, Rust, and deeper system knowledge — I’m just getting started.
 
 ---
 
-## 🛠️ Tech Stack (Backend is Home)
+## 🛠️ What do you know?
 <div align="center">
 
 ![GoLang](https://img.shields.io/badge/GoLang-%23111111?style=for-the-badge&logo=go&color=%23111111)
@@ -33,7 +33,7 @@ Pull up a chair, let's get nerdy. 🧠💻
 ---
 
 ## 🧼 Frontend? Been There, Done That.
-These tools taught me a lot — but in the end, I chose logic over layout, and system design over screen design.
+These tools taught me a lot, but in the end, they weren't what I enjoyed doing.
 
 <div align="center">
 
@@ -47,11 +47,11 @@ These tools taught me a lot — but in the end, I chose logic over layout, and s
 
 </div>
 
-> **Why I left frontend behind:** Because `div` hell and CSS black magic just aren’t my vibe.
+> **Why did you leave frontend behibd?** `div`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Soooo prove it.
 <p align="center">
     <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="maybeizen's stats">
     <img src="https://github-stats-ochre-mu.vercel.app/api/top-langs/?username=maybeizen&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="maybeizen's Top Languages">
@@ -59,25 +59,25 @@ These tools taught me a lot — but in the end, I chose logic over layout, and s
 
 ---
 
-## 🧠 What I’m Learning Right Now
-- ⚙️ **Go & Rust** — For fast, reliable, and beautiful backend systems.
+## 🧠 What are you learning?
+- ⚙️ **GoLang** (My baby) — For fast, reliable, and beautiful backend systems.
 - 🕵️‍♂️ **Cybersecurity** — Digging into defense, pen-testing, and all things secure.
 - 💾 **Systems Thinking** — Learning the guts: memory management, compilers, and OS internals.
 
 ---
 
-## 💡 Why I Code
+## 💡 Why do you code?
 Because ideas deserve to exist — and I’ve got plenty.  
-I build because I *love* the process. Because nothing beats turning a blank file into something powerful, useful, or just plain cool.  
+I build because I *love* the process. Because nothing beats turning literal pulses of electricity into something that can make someone's life so much easier.  
 
 And honestly?  
 I code to *create* — to build a future I believe in.
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Hit me up
 Got backend dreams, anime thoughts, or just want to vibe with tech talk? Hit me up — I’m always down to chat.
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/maybeizen)  
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/maybeizen)  
-[![Discord](https://img.shields.io/badge/maybeizen-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.com/users/924513291806580736)
+[Twitter](https://x.com/maybeizen) (Which I don't use often)    
+[Instagram](https://instagram.com/maybeizen)  (Even less)   
+[Discord](https://discord.com/users/924513291806580736)
