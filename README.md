@@ -1,23 +1,23 @@
 # Hey there, I'm maybeizen! 👋
 
-Welcome to my GitHub! I’m a backend-focused developer, a future cybersecurity badass, and a guy who believes in building stuff that just *works*.
-
-Pull up a chair, let's get nerdy.
+Welcome to my GitHub! My name is Briar, and I'm a fullstack developer and cybersecurity analyst/pentester (I test pens).
 
 ---
 
-## 🌟 Who is this guy?
-- 🧩 Backend lover through and through. Frontend? Miss me with that.
-- 💡 Started full-stack, but backend stole my heart (and never gave it back).
-- 🔐 On a mission to become a cybersecurity wizard — military? That’s the dream.
-- 💖 Romance anime addict — *Tsuki ga Kirei* and *Darling in the Franxx* wrecked me in the best way.
-- 🚀 My goal? Build tools people *actually* use. Make an impact. Leave a reason to be missed.
-- 🌱 Currently exploring Go, Rust, and deeper system knowledge — I’m just getting started.
+## 🌟 Who...are you?
+- Fullstack developer through and through
+- On a mission to join the US Air Force and do cybersecurity
+- Addicted to romance anime
+- My goal? Make an impact
+  - "Help me leave behind some reasons to be missed." - Chester Bennington, 2007
+- Exploring Go, Rust, and deeper system knowledge
 
 ---
 
 ## 🛠️ What do you know?
 <div align="center">
+
+### Backend Technology
 
 ![GoLang](https://img.shields.io/badge/GoLang-%23111111?style=for-the-badge&logo=go&color=%23111111)
 ![Node.js](https://img.shields.io/badge/Node.js-%23111111?style=for-the-badge&logo=node.js&color=%23111111)
@@ -30,12 +30,9 @@ Pull up a chair, let's get nerdy.
 
 </div>
 
----
-
-## 🧼 Frontend? Been There, Done That.
-These tools taught me a lot, but in the end, they weren't what I enjoyed doing.
-
 <div align="center">
+
+### Frontend Technology
 
 ![React](https://img.shields.io/badge/React-%23111111?style=for-the-badge&logo=React&color=%23111111)
 ![Next.js](https://img.shields.io/badge/Next.js-%23111111?style=for-the-badge&logo=next.js&color=%23111111)
@@ -47,11 +44,9 @@ These tools taught me a lot, but in the end, they weren't what I enjoyed doing.
 
 </div>
 
-> **Why did you leave frontend behibd?** `div`
-
 ---
 
-## 📊 Soooo prove it.
+## 📊 Here's the proof:
 <p align="center">
     <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="maybeizen's stats">
     <img src="https://github-stats-ochre-mu.vercel.app/api/top-langs/?username=maybeizen&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="maybeizen's Top Languages">
@@ -59,25 +54,25 @@ These tools taught me a lot, but in the end, they weren't what I enjoyed doing.
 
 ---
 
-## 🧠 What are you learning?
-- ⚙️ **GoLang** (My baby) — For fast, reliable, and beautiful backend systems.
-- 🕵️‍♂️ **Cybersecurity** — Digging into defense, pen-testing, and all things secure.
-- 💾 **Systems Thinking** — Learning the guts: memory management, compilers, and OS internals.
+## 🧠 What's new?
+- **GoLang** (My baby) - For fast, reliable, and beautiful backend systems.
+- **Cybersecurity** - Digging into defense, pentesting, and all things secure. (Even doing AFA CyberPatriot)
+- **Systems Thinking** - Learning the guts: memory management, compilers, and OS internals.
 
 ---
 
-## 💡 Why do you code?
-Because ideas deserve to exist — and I’ve got plenty.  
+## 💡 Why?
+Because ideas deserve to exist - and I’ve got plenty.  
 I build because I *love* the process. Because nothing beats turning literal pulses of electricity into something that can make someone's life so much easier.  
 
 And honestly?  
-I code to *create* — to build a future I believe in.
+I code to *create* - to build a future I believe in.
 
 ---
 
-## 📬 Hit me up
-Got backend dreams, anime thoughts, or just want to vibe with tech talk? Hit me up — I’m always down to chat.
+## 📬 Contact Me
+Got dreams, anime thoughts, or just want to vibe with tech talk? Hit me up — I’m always down to chat.
 
-[Twitter](https://x.com/maybeizen) (Which I don't use often)    
-[Instagram](https://instagram.com/maybeizen)  (Even less)   
+[Twitter](https://x.com/maybeizen)  
+[Instagram](https://instagram.com/maybeizen)  
 [Discord](https://discord.com/users/924513291806580736)
