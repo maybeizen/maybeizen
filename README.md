@@ -1,7 +1,12 @@
 # Hey, I’m Briar (maybeizen) 👋
 
 Full-stack developer with a strong interest in cybersecurity and systems programming.  
-I don’t use GitHub a whole lot, but when I do, it’s usually for things I genuinely care about or want to learn deeply.
+I don’t use GitHub a whole lot, and most of my active work lives under organizations rather than this profile.
+
+> You’ll find most of what I work on at **Membercat Studios** and **Nether Host**.
+
+- https://github.com/Membercat-Studios  
+- https://github.com/NetherHost
 
 ---
 
@@ -42,30 +47,4 @@ I don’t use GitHub a whole lot, but when I do, it’s usually for things I gen
 ## 🧠 What I’m Focused On
 - **Go & Rust** – fast, correct, reliable systems
 - **Cybersecurity** – defense, pentesting, CyberPatriot
-- **Systems** – memory, OS internals, compilers, how things *actually* work
-
----
-
-## 📊 GitHub Stats
-> Not a perfect reflection of my activity — I don’t live on GitHub — but here’s what’s public.
-
-<p align="center">
-  <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true" />
-  <img src="https://github-stats-ochre-mu.vercel.app/api/top-langs/?username=maybeizen&theme=dark&hide_border=true&layout=compact" />
-</p>
-
----
-
-## 💭 Why I Code
-Because ideas deserve to exist.  
-Because turning electricity into something useful is kind of magical.  
-And because building things is how I shape the future I want.
-
----
-
-## 📬 Contact
-Tech talk, anime, or just vibing — feel free to reach out.
-
-- Twitter: https://x.com/maybeizen  
-- Instagram: https://instagram.com/maybeizen  
-- Discord: @maybeizen
+- **Systems** – memory, OS internals, compilers,
