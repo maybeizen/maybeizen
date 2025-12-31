@@ -47,4 +47,30 @@ I don’t use GitHub a whole lot, and most of my active work lives under organiz
 ## 🧠 What I’m Focused On
 - **Go & Rust** – fast, correct, reliable systems
 - **Cybersecurity** – defense, pentesting, CyberPatriot
-- **Systems** – memory, OS internals, compilers,
+- **Systems** – memory, OS internals, compilers, how things *actually* work
+
+---
+
+## 📊 GitHub Stats
+> These don’t tell the whole story — a lot of my work happens in org repos.
+
+<p align="center">
+  <img src="https://github-stats-ochre-mu.vercel.app/api?username=maybeizen&theme=dark&show_icons=true&hide_border=true" />
+  <img src="https://github-stats-ochre-mu.vercel.app/api/top-langs/?username=maybeizen&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 💭 Why I Code
+Because ideas deserve to exist.  
+Because turning electricity into something useful is kind of magical.  
+And because building things is how I shape the future I want.
+
+---
+
+## 📬 Contact
+Tech talk, anime, or just vibing — feel free to reach out.
+
+- Twitter: https://x.com/maybeizen  
+- Instagram: https://instagram.com/maybeizen  
+- Discord: @maybeizen
