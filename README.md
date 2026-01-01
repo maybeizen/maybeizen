@@ -71,6 +71,7 @@ And because building things is how I shape the future I want.
 ## 📬 Contact
 Tech talk, anime, or just vibing — feel free to reach out.
 
+- Email: [me@maybeizen.space](mailto:me@maybeizen.space)
 - Twitter: https://x.com/maybeizen  
 - Instagram: https://instagram.com/maybeizen  
 - Discord: @maybeizen
