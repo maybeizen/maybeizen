@@ -17,7 +17,7 @@ I don’t use GitHub a whole lot, and most of my active work lives under organiz
 - Exploring **Go**, **Rust**, and low-level systems
 - Goal: build things that actually matter
 
-> “Help me leave behind some reasons to be missed.” — Chester Bennington
+> “Help me leave behind some reasons to be missed.” — *Leave Out All The Rest*, Linkin Park
 
 ---
 
