@@ -1,7 +1,7 @@
 # Hey, I’m Briar
 
 I do cybersecurity and networking. I also drum on the side. 
-I barely use GitHub anymore, most of my stuff is hands-on work that just wouldn't fit GitHub's use case.
+> I barely use GitHub anymore, most of my stuff is hands-on work that just wouldn't fit GitHub's use case.
 
 ---
 
